@@ -17,14 +17,13 @@ public class FizzBuzz {
 		}
 	}
 	public boolean fizz(int num){
-		String numStr = ""+num;
+		String numStr = "" + num;
 		return (num%3==0) || (numStr.contains("3"));
 	}
 	public boolean buzz(int num){
-		String numStr = ""+num;
+		String numStr = "" + num;
 		return (num%5==0) || (numStr.contains("5"));
 	}
-	
 	public static void main(String[] args){
 		FizzBuzz fizzbuzz = new FizzBuzz();
 		fizzbuzz.fizzBuzzRunner();
