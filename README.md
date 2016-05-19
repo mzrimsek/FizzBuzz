@@ -1,2 +1,2 @@
 # FizzBuzz
-FizzBuzz project written during my interview to work at Kent State University Residence Services
+Project written during my interview for Kent State University Residence Services
